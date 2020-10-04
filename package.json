@@ -25,7 +25,6 @@
     "vows": "^0.8.2"
   },
   "main": "./lib/portfinder",
-  "module": "./lib/portfinder.mjs",
   "types": "./lib/portfinder.d.ts",
   "exports": {
     ".": {
